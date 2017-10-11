@@ -1,0 +1,48 @@
+<wire>
+	<pointA>xp01</pointA>
+	<pointB>xp02</pointB>
+</wire>
+<wire>
+	<pointA>xp01</pointA>
+	<pointB>xp03</pointB>
+</wire>
+<wire>
+	<pointA>xp01</pointA>
+	<pointB>redhat02</pointB>
+</wire>
+<wire>
+	<pointA>xp02</pointA>
+	<pointB>xp04</pointB>
+</wire>
+<wire>
+	<pointA>xp02</pointA>
+	<pointB>redhat02</pointB>
+</wire>
+<wire>
+	<pointA>xp04</pointA>
+	<pointB>win2k03</pointB>
+</wire>
+<wire>
+	<pointA>xp04</pointA>
+	<pointB>redhat02</pointB>
+</wire>
+<wire>
+	<pointA>redhat01</pointA>
+	<pointB>redhat02</pointB>
+</wire>
+<wire>
+	<pointA>redhat01</pointA>
+	<pointB>redhat03</pointB>
+</wire>
+<wire>
+	<pointA>redhat01</pointA>
+	<pointB>win2k03</pointB>
+</wire>
+<wire>
+	<pointA>redhat02</pointA>
+	<pointB>redhat03</pointB>
+</wire>
+<wire>
+	<pointA>redhat02</pointA>
+	<pointB>win2k03</pointB>
+</wire>

@@ -1,0 +1,40 @@
+<computer>
+	<name>xp01</name>
+	<os>windows XP</os>
+</computer>
+<computer>
+	<name>xp02</name>
+	<os>windows XP</os>
+</computer>
+<computer>
+	<name>xp03</name>
+	<os>windows XP</os>
+</computer>
+<computer>
+	<name>xp04</name>
+	<os>windows XP</os>
+</computer>
+<computer>
+	<name>redhat01</name>
+	<os>redhat 32bit</os>
+</computer>
+<computer>
+	<name>redhat02</name>
+	<os>redhat 32bit</os>
+</computer>
+<computer>
+	<name>redhat03</name>
+	<os>redhat 64bit</os>
+</computer>
+<computer>
+	<name>win2k01</name>
+	<os>windows 2000</os>
+</computer>
+<computer>
+	<name>win2k02</name>
+	<os>windows 2000</os>
+</computer>
+<computer>
+	<name>win2k03</name>
+	<os>windows 2000</os>
+</computer>
