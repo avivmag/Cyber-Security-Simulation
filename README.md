@@ -19,7 +19,8 @@ The development of this simulation was done in pairs as part of an assignment in
 	via ```sudo apt-get install libboost-all-dev``` on ubuntu based os (kubuntu included).
 Note: those softwares are the ones I used to build and run the program, I am sure there are many well-known compilers to compile this c++ files for other types of operating systems.
 
-There are three xml files out there for simulator configuration, I left a full working example for them in the repository - feel free to edit any of them for your needs on the given structure:
+Simulator configuration is composed of three xml files:
+Note: I left a full working example for them in the repository - feel free to edit any of them for your needs while preserving the given structure.
 1. computer.xml: This xml will declare all the computers in our network and the type of their operating system.
 The structure of every computer record is as followes:
 <computer>
