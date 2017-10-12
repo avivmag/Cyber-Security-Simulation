@@ -4,7 +4,7 @@ This program simulates a battle over a computer network between computer worms w
 
 The development of this simulation was done in pairs as part of an assignment in "Systems Programming" course at Ben-Gurion University in the begining of 2016.
 
-A detailed description of this simulation can be found in the assignment desciption attached - section 2.
+A detailed description of this simulation can be found in the assignment description attached - section 2.
 
 ## Getting Started
 ### Prerequisites
