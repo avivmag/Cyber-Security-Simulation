@@ -9,7 +9,7 @@ A detailed description of this simulation can be found in the assignment descrip
 ## Getting Started
 ### Prerequisites
 
-1. Kubuntu - this program tested only on kubuntu, but it probably can be ran on any other known gcc compatible operating systems.
+1. Kubuntu - this program was tested only on kubuntu, but it probably can be ran on any other known gcc compatible operating systems.
 	https://kubuntu.org/getkubuntu/
 2. GNU make
 	https://www.gnu.org/software/make/
