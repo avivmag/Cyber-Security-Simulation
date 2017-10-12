@@ -23,38 +23,47 @@ Simulator configuration is composed of three xml files:
 Note: I left a full working example for them in the repository - feel free to edit any of them for your needs while preserving the given structure.
 1. computer.xml: This xml will declare all the computers in our network and the type of their operating system.
 The structure of every computer record is as followes:
+```
 <computer>
 	<name>[computer name goes here]</name>
 	<os>[operating system goes here]</os>
 </computer>
+```
 2. network.xml: This xml will declare the connection between two computers (if there is one).
 The structure of every wire record is as followes:
+```
 <wire>
 	<pointA>[first computer name goes here]</pointA>
 	<pointB>[second computer name goes here]</pointB>
 </wire>
+```
 3. events.xml: This xml is a little more complicated then the ones above,
 Its main focus is to form the chain of events in the simulations.
 It holds three types of sub-configurations:
 a. Hack event: this event signifies that a hacker hacked his/her way into the network and planted a worm on a computer.
 The structure of every hack record is as followes:
+```
 <hack>
 	<computer>[hacked computer name goes here]</computer>
 	<wormName>[worm name goes here]</wormName>
 	<wormDormancy>[worm dormant time goes here]</wormDormancy>
 	<wormOs>[worm favorite os goes here]</wormOs>
 </hack>
+```
 b. Clock-In event: this event signifies that an Admin clocked-in and is now starting his/her workday
+```
 <clock-in>
 	<name>[admin name goes here]</name>
 	<workTime>[admin work time goes here]</workTime>
 	<restTime>[admin rest time goes here]</restTime>
 	<efficiency>[admin efficient setting goes here]</efficiency>
 </clock-in>
+```
 c. Termination event: This event signifies the end time of our simulation, once this event is read, the simulation will continue until the specified time unit listed in the termination event.
-<termination>
+```<termination>
 	<time>[time unit to terminate at goes here]</time>
 </termination>
+```
 
 ### Installing
 
