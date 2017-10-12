@@ -60,7 +60,8 @@ b. Clock-In event: this event signifies that an Admin clocked-in and is now star
 </clock-in>
 ```
 c. Termination event: This event signifies the end time of our simulation, once this event is read, the simulation will continue until the specified time unit listed in the termination event.
-```<termination>
+```
+<termination>
 	<time>[time unit to terminate at goes here]</time>
 </termination>
 ```
