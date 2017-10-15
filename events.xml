@@ -1,40 +1,39 @@
 <hack>
-	<computer>win2k02</computer>
-	<wormName>Blaster</wormName>
-	<wormDormancy>1</wormDormancy>
-	<wormOs>windows 2000</wormOs>
+ <computer>Desktop PC</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
 </hack>
 <hack>
-	<computer>win2k01</computer>
-	<wormName>Blaster</wormName>
-	<wormDormancy>1</wormDormancy>
-	<wormOs>windows 2000</wormOs>
+ <computer>Refrigerator</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
+</hack>
+<hack>
+ <computer>Desktop PC</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
+</hack>
+<hack>
+ <computer>Microwave</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
+</hack>
+<hack>
+ <computer>Cellphone</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
 </hack>
 <clock-in>
-	<name>Bill</name>
-	<workTime>3</workTime>
-	<restTime>2</restTime>
-	<efficiency>2</efficiency>
+ <name>Einav</name>
+ <workTime>3</workTime>
+ <restTime>1</restTime>
+ <efficiency>3</efficiency>
 </clock-in>
-<clock-in>
-	<name>Dave</name>
-	<workTime>4</workTime>
-	<restTime>3</restTime>
-	<efficiency>1</efficiency>
-</clock-in>
-<hack>
-	<computer>redhat02</computer>
-	<wormName>Ramen</wormName>
-	<wormDormancy>1</wormDormancy>
-	<wormOs>redhat 32bit</wormOs>
-</hack>
-<hack>
-	<computer>redhat02</computer>
-	<wormName>Ramen</wormName>
-	<wormDormancy>1</wormDormancy>
-	<wormOs>windows xp</wormOs>
-</hack>
-
 <termination>
-	<time>100</time>
+	<time>10</time>
 </termination>
