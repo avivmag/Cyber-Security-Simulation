@@ -1,40 +1,40 @@
-<computer>
-	<name>xp01</name>
-	<os>windows XP</os>
+<computer> 
+	<name>Desktop PC</name> 
+	<os>Linux</os>
 </computer>
-<computer>
-	<name>xp02</name>
-	<os>windows XP</os>
+<computer> 
+	<name>Critical Server</name> 
+	<os>Windows</os>
 </computer>
-<computer>
-	<name>xp03</name>
-	<os>windows XP</os>
+<computer> 
+	<name>Laptop</name> 
+	<os>Linux</os>
+</computer>	
+<computer> 
+	<name>Refrigerator</name> 
+	<os>Linux</os>
 </computer>
-<computer>
-	<name>xp04</name>
-	<os>windows XP</os>
+<computer> 
+	<name>Cable TV Box</name> 
+	<os>Linux</os>
+</computer>	
+<computer> 
+	<name>TV Remote</name> 
+	<os>Linux</os>
 </computer>
-<computer>
-	<name>redhat01</name>
-	<os>redhat 32bit</os>
+<computer> 
+	<name>Cellphone</name> 
+	<os>Linux</os>
 </computer>
-<computer>
-	<name>redhat02</name>
-	<os>redhat 32bit</os>
+<computer> 
+	<name>Microwave</name> 
+	<os>Linux</os>
 </computer>
-<computer>
-	<name>redhat03</name>
-	<os>redhat 64bit</os>
+<computer> 
+	<name>Smart Oven</name> 
+	<os>Linux</os>
 </computer>
-<computer>
-	<name>win2k01</name>
-	<os>windows 2000</os>
-</computer>
-<computer>
-	<name>win2k02</name>
-	<os>windows 2000</os>
-</computer>
-<computer>
-	<name>win2k03</name>
-	<os>windows 2000</os>
+<computer> 
+	<name>Apple PC</name> 
+	<os>Linux</os>
 </computer>
