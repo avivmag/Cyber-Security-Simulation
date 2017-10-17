@@ -81,4 +81,4 @@ c. Termination event: This event signifies the end time of our simulation, once 
 
 ## Useful links
 
-* The actual assignment: https://www.cs.bgu.ac.il/~spl161/index.php?page=Assignments
+* The original source of the assignment: https://www.cs.bgu.ac.il/~spl161/index.php?page=Assignments
