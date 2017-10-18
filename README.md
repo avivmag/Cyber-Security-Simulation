@@ -70,7 +70,7 @@ c. Termination event: This event signifies the end time of our simulation, once 
 ### Installing
 
 1. open terminal and navigate to the program directory
-2. Do this step only if simulation rebuilt is needed: the type `make` and press enter.
+2. Do this step only if simulation rebuilt is needed: type `make` and press enter.
 3. type `./bin/cyber` and press enter.
 4. enjoy :D.
 
